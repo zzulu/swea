@@ -28,6 +28,6 @@
 """
 
 T = int(input())
-
 for t in range(1, T+1):
-    print("#{} {}".format(t, sum(list(filter(lambda n: n % 2 == 1, map(int, input().split()))))))
+    print("#{} {}".format(t, sum(x for x in list(map(int, input().split())) if x % 2)))
+    # print("#{} {}".format(t, sum(list(filter(lambda n: n % 2 == 1, map(int, input().split()))))))
