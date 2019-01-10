@@ -1,3 +1,7 @@
+"""
+1979. 어디에 단어가 들어갈 수 있을까
+"""
+
 def each_axis(n, p):
     return p, [[p[j][i] for j in range(n)] for i in range(n)]
             
