@@ -32,4 +32,5 @@
 | D2 | 1986. 지그재그 숫자 | [py](solutions/D2/1986.py) | |
 | D2 | 1204. 최빈수 구하기 | [py](solutions/D2/1204.py) | |
 | D3 | 5549. 홀수일까 짝수일까 | [py](solutions/D3/5549.py) | |
-| D5 | 6782. 현주가 좋아하는 제곱근 놀이 | | |
+| D5 | 6782. 현주가 좋아하는 제곱근 놀이 | | Python version doesn't exist.|
+| D3 | 4579. 세상의 모든 팰린드롬 2 | [py](solutions/D3/4579.py) | |
