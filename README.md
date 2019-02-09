@@ -36,7 +36,7 @@
 | D2 | 1984. 중간 평균값 구하기 | [py](solutions/D2/1984.py) | |
 | D2 | 1986. 지그재그 숫자 | [py](solutions/D2/1986.py) | |
 | D2 | 1204. 최빈수 구하기 | [py](solutions/D2/1204.py) | |
-| D2 | 1954. 달팽이 숫자 | | |
+| D2 | 1954. 달팽이 숫자 | [py](solutions/D2/1954.py) | |
 
 ## D3
 | Title | Solutions | Remarks |
