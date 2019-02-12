@@ -1,3 +1,7 @@
+"""
+4579. 세상의 모든 팰린드롬 2
+"""
+
 def palindrome(s):
     if len(s) < 2 or s[0] == '*' or s[-1] == '*':
         return 'Exist'

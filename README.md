@@ -26,26 +26,26 @@
 ## D2
 | Title | Solutions | Remarks |
 | ---- | ---- | ---- |
-| D2 | 1859. 백만 장자 프로젝트 | | |
-| D2 | 1926. 간단한 369게임 | [py](solutions/D2/1926.py) | |
-| D2 | 2007. 패턴 마디의 길이 | [py](solutions/D2/2007.py) | |
-| D2 | 2005. 파스칼의 삼각형 | | |
-| D2 | 2001. 파리 퇴치 | [py](solutions/D2/2001.py) | |
-| D2 | 1989. 초심자의 회문 검사 | [py](solutions/D2/1989.py) | |
-| D2 | 1979. 어디에 단어가 들어갈 수 있을까 | [py](solutions/D2/1979.py) | |
-| D2 | 1984. 중간 평균값 구하기 | [py](solutions/D2/1984.py) | |
-| D2 | 1986. 지그재그 숫자 | [py](solutions/D2/1986.py) | |
-| D2 | 1204. 최빈수 구하기 | [py](solutions/D2/1204.py) | |
-| D2 | 1954. 달팽이 숫자 | [py](solutions/D2/1954.py) | |
+| 1859. 백만 장자 프로젝트 | | |
+| 1926. 간단한 369게임 | [py](solutions/D2/1926.py) | |
+| 2007. 패턴 마디의 길이 | [py](solutions/D2/2007.py) | |
+| 2005. 파스칼의 삼각형 | | |
+| 2001. 파리 퇴치 | [py](solutions/D2/2001.py) | |
+| 1989. 초심자의 회문 검사 | [py](solutions/D2/1989.py) | |
+| 1979. 어디에 단어가 들어갈 수 있을까 | [py](solutions/D2/1979.py) | |
+| 1984. 중간 평균값 구하기 | [py](solutions/D2/1984.py) | |
+| 1986. 지그재그 숫자 | [py](solutions/D2/1986.py) | |
+| 1204. 최빈수 구하기 | [py](solutions/D2/1204.py) | |
+| 1954. 달팽이 숫자 | [py](solutions/D2/1954.py) | |
 
 ## D3
 | Title | Solutions | Remarks |
 | ---- | ---- | ---- |
-| D3 | 5549. 홀수일까 짝수일까 | [py](solutions/D3/5549.py) | |
-| D3 | 4579. 세상의 모든 팰린드롬 2 | [py](solutions/D3/4579.py) | |
-| D3 | 3408. 세가지 합 구하기 | [py](solutions/D3/3408.py) | `int() vs //` |
+| 5549. 홀수일까 짝수일까 | [py](solutions/D3/5549.py) | |
+| 4579. 세상의 모든 팰린드롬 2 | [py](solutions/D3/4579.py) | |
+| 3408. 세가지 합 구하기 | [py](solutions/D3/3408.py) | `int() vs //` |
 
 ## D5
 | Title | Solutions | Remarks |
 | ---- | ---- | ---- |
-| D5 | 6782. 현주가 좋아하는 제곱근 놀이 | [py](solutions/D5/6782.py) | (Can't submit with python.) |
+| 6782. 현주가 좋아하는 제곱근 놀이 | [py](solutions/D5/6782.py) | (Can't submit with python.) |
