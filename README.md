@@ -37,6 +37,7 @@
 | 1986. 지그재그 숫자 | [py](solutions/D2/1986.py) | |
 | 1204. 최빈수 구하기 | [py](solutions/D2/1204.py) | |
 | 1954. 달팽이 숫자 | [py](solutions/D2/1954.py) | |
+| 1976. 시각 덧셈 | [py](solutions/D2/1976.py) | |
 
 ## D3
 | Title | Solutions | Remarks |
