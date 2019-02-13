@@ -26,10 +26,8 @@
 ## D2
 | Title | Solutions | Remarks |
 | ---- | ---- | ---- |
-| 1859. 백만 장자 프로젝트 | | |
 | 1926. 간단한 369게임 | [py](solutions/D2/1926.py) | |
 | 2007. 패턴 마디의 길이 | [py](solutions/D2/2007.py) | |
-| 2005. 파스칼의 삼각형 | | |
 | 2001. 파리 퇴치 | [py](solutions/D2/2001.py) | |
 | 1989. 초심자의 회문 검사 | [py](solutions/D2/1989.py) | |
 | 1979. 어디에 단어가 들어갈 수 있을까 | [py](solutions/D2/1979.py) | |
@@ -38,6 +36,9 @@
 | 1204. 최빈수 구하기 | [py](solutions/D2/1204.py) | |
 | 1954. 달팽이 숫자 | [py](solutions/D2/1954.py) | |
 | 1976. 시각 덧셈 | [py](solutions/D2/1976.py) | |
+| 1284. 수도 요금 경쟁 | [py](solutions/D2/1284.py) | |
+| 1945. 간단한 소인수분해 | [py](solutions/D2/1945.py) | |
+| 1948. 날짜 계산기 | [py](solutions/D2/1948.py) | |
 
 ## D3
 | Title | Solutions | Remarks |
