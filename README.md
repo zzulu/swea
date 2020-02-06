@@ -50,6 +50,7 @@
 | 3408. 세가지 합 구하기 | [py](solutions/D3/3408.py) | `int() vs //` |
 | 4047. 영준이의 카드 카운팅 | [py](solutions/D3/4047.py) | |
 | 4579. 세상의 모든 팰린드롬 2 | [py](solutions/D3/4579.py) | |
+| 4615. 재미있는 오셀로 게임 | [py](solutions/D3/4615.py) | |
 | 4751. 다솔이의 다이아몬드 장식 | [py](solutions/D3/4751.py) | |
 | 5549. 홀수일까 짝수일까 | [py](solutions/D3/5549.py) | |
 | 5356. 의석이의 세로로 말해요 | [py](solutions/D3/5356.py) | |
