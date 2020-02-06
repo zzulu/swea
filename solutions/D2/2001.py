@@ -2,7 +2,9 @@
 2001. 파리 퇴치
 """
 
-for t in range(1,int(input())+1):
+T = int(input())
+
+for tc in range(1, T+1):
     N, M = map(int, input().split())
     flies = []
     for i in range(N):
@@ -16,4 +18,4 @@ for t in range(1,int(input())+1):
                 s += sum(flies[v+m][h:h+M])
             died.append(s)
 
-    print(f'#{t} {max(died)}')
+    print(f'#{tc} {max(died)}')
