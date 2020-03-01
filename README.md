@@ -34,6 +34,7 @@
 | 1945. 간단한 소인수분해 | [py](solutions/D2/1945.py) | |
 | 1948. 날짜 계산기 | [py](solutions/D2/1948.py) | |
 | 1954. 달팽이 숫자 | [py](solutions/D2/1954.py) | |
+| 1961. 숫자 배열 회전 | [py](solutions/D2/1961.py) | |
 | 1976. 시각 덧셈 | [py](solutions/D2/1976.py) | |
 | 1979. 어디에 단어가 들어갈 수 있을까 | [py](solutions/D2/1979.py) | |
 | 1984. 중간 평균값 구하기 | [py](solutions/D2/1984.py) | |
