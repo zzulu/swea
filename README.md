@@ -49,6 +49,7 @@
 ## D3
 | Title | Solutions | Remarks |
 | ---- | ---- | ---- |
+| 1206. View | [py](solutions/D3/1206.py) | |
 | 3408. 세가지 합 구하기 | [py](solutions/D3/3408.py) | `int() vs //` |
 | 4047. 영준이의 카드 카운팅 | [py](solutions/D3/4047.py) | |
 | 4579. 세상의 모든 팰린드롬 2 | [py](solutions/D3/4579.py) | |
