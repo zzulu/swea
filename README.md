@@ -59,6 +59,7 @@
 | 5356 | 의석이의 세로로 말해요 | [py](solutions/D3/5356.py) | |
 | 6190 | 정곤이의 단조 증가하는 수 | [py](solutions/D3/6190.py) | |
 | 10200 | 구독자 전쟁 | [py](solutions/D3/10200.py) | |
+| 10726 | 이진수 표현 | [py](solutions/D3/10726/main.py) | |
 
 
 ## D4
@@ -71,4 +72,4 @@
 | No. | Title | Solutions | Remarks |
 | ---- | ---- | ---- | ---- |
 | 1259 | 금속막대 | [py](solutions/D5/1259.py) | |
-| 6782 | 현주가 좋아하는 제곱근 놀이 | [py](solutions/D5/6782.py) | No Python |
+| 6782 | 현주가 좋아하는 제곱근 놀이 | [py](solutions/D5/6782.py) | |
