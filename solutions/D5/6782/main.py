@@ -2,6 +2,9 @@
 6782. 현주가 좋아하는 제곱근 놀이
 """
 
+import sys
+sys.stdin = open('input.txt', 'r')
+
 for t in range(int(input())):
     n, c = float(input()), 0
     while n != 2:
